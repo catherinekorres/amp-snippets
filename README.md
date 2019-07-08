@@ -7,7 +7,7 @@
 ## Features
 Below is a list with all available snippets with their respective trigger and content created.
 
-###Imports
+### Imports
 Before using a component, importing is necessary otherwise it won't work properly.
 
 |                            Trigger | Content                                              |
@@ -32,7 +32,7 @@ Before using a component, importing is necessary otherwise it won't work properl
 |                      `amp-sidebar` | amp-sidebar required script                          |
 |                      `amp-youtube` | amp-youtube required script                          |
 
-###Components
+### Components
 All the components available are of basic use. That being said, if you used an import from above that is not present here, it's because it involves specific and/or advanced usage to demonstrate. If you have any questions feel free to contact me, or check [AMP's documentation](https://amp.dev/documentation/components/ "AMP's documentation")
 
 |                            Trigger | Content                                                                       |
