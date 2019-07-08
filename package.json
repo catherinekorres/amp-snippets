@@ -3,11 +3,11 @@
     "displayName": "AMP Snippets",
     "description": "Some AMP snippets for VS Code",
     "version": "0.0.1",
-    "publisher": "Catherine Korres",
-    "icon": "./images/amp.png",
+    "publisher": "catherinekorres",
+    "icon": "images/amp.png",
 	"galleryBanner": {
-		"color": "#75A6F8",
-		"theme": "light"
+		"color": "#001c4d",
+		"theme": "dark"
 	},
     "license": "MIT",
     "repository": {
@@ -15,7 +15,7 @@
       "url": "https://github.com/catherinekorres/amp-snippets.git"
     },
     "engines": {
-        "vscode": "^1.36.0"
+        "vscode": "^1.12.0"
     },
     "categories": [
         "Snippets"
