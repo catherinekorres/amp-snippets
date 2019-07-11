@@ -2,11 +2,12 @@
 	"amp-html": {
 		"prefix": "amp-html",
     "body": [
+			"<!doctype html>",
 			"<html ⚡>",
 			"	<head>",
 			"		<meta charset=\"utf-8\">",
 			"		<title>$1</title>",
-			"		<link rel=\"canonical\" href=\"$2\">",
+			"		<link rel=\"canonical\" href=\"index.html\">",
 			"		<meta name=\"viewport\" content=\"width=device-width,minimum-scale=1,initial-scale=1\">",
 			"",
 			"		<script async src=\"https://cdn.ampproject.org/v0.js\"></script>",
